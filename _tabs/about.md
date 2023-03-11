@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Sobre nosotros
+**Motorsport.com** es un sitio web especializado en noticias de deportes de motor. Publica contenido en trece idiomas. Es parte de la compañía Motorsport Network. Motorsport.com tiene una sede en Miami, Estados Unidos.
